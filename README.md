@@ -1,6 +1,9 @@
 # General Needlework Phantom
 
 ## How-to-Use Guide
+To prepare for use, first fill the tubes with water by opening the valves on both ends, tilting them up to avoid spilling, and using a syringe to inject water until full. Then close both valves.
+
+The phantom can now be used for ultrasound imaging. The water-filled tubes should be visible under ultrasound, mimicking veins, and should contrast with the graphite-filled gel surrounding them. The user can practice using ultrasound imaging to locate a patient’s vein and to insert a catheter into it.
 
 ## Parts, Materials & Equipment
 ### Mold
