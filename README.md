@@ -5,6 +5,9 @@ To prepare for use, first fill the tubes with water by opening the valves on bot
 
 The phantom can now be used for ultrasound imaging. The water-filled tubes should be visible under ultrasound, mimicking veins, and should contrast with the graphite-filled gel surrounding them. The user can practice using ultrasound imaging to locate a patient’s vein and to insert a catheter into it.
 
+> <img src="https://user-images.githubusercontent.com/84343976/234936087-60ac528d-0125-489f-81ea-a2f89d9a0c70.png" width="800"><br>
+> One of the phantom's "veins" under ultrasound. A: short axis, B: short axis compressed, C: long axis, D: long axis compressed.
+
 ## Parts, Materials & Equipment
 ### Mold
 
@@ -43,7 +46,7 @@ The phantom can now be used for ultrasound imaging. The water-filled tubes shoul
 ## Assembly Instructions
 ### Mold
 1. 3D print out the intermediate mold components using any rigid filament. Clamp them together and cast with silicone.
-2. Laser cut the wooden pieces. Note that extra vein holes can be drilled if desired, or closed up with hot glue.
+2. Laser cut the wooden pieces. Initially there are enough holes cut for 2 veins, however extra vein holes can be drilled if desired.
 3. Attach the bottom wooden component to the bottom of the silicone component with 4 screws.
 4. Attach the corner components to the long wooden side components with screws, then screw that to the sides of the silicone mold. Then screw the corner components into the bottom of the silicone mold.
 5. Slide the shorter side components into the gaps between the corner pieces and the silicone mold, and screw into place.
