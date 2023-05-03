@@ -1,9 +1,16 @@
 # General Needlework Phantom
 
-## How-to-Use Guide
-To prepare for use, first fill the tubes with water by opening the valves on both ends, tilting them up to avoid spilling, and using a syringe to inject water until full. Then close both valves.
+A general needlework training phantom, created to simulate ultrasound-guided needle insertion. See how-to-use guide and assembly instructions below.
 
-The phantom can now be used for ultrasound imaging. The water-filled tubes should be visible under ultrasound, mimicking veins, and should contrast with the graphite-filled gel surrounding them. The user can practice using ultrasound imaging to locate a patient’s vein and to insert a catheter into it.
+This model was developed at the [Lynn & Arnold Irwin Advanced Perioperative Imaging Lab](https://apil.ca/), Toronto General Hospital, University Health Network. 
+
+> <img src="https://user-images.githubusercontent.com/84343976/233670751-5d465c36-f83b-4e5b-a5f6-e4c5f5e07042.png" width="550"><br>
+> Fully assembled phantom and case.
+
+## How-to-Use Guide
+To prepare for use, first fill the tubes with water by opening the valves on both ends and using a syringe to inject water, then closing both valves.
+
+The phantom can now be used for ultrasound imaging. The water-filled tubes should be visible under ultrasound, mimicking veins, and should contrast with the graphite-filled gel surrounding them (see image below). The user can practice using ultrasound imaging to locate a patient’s vein, into which they can then insert a needle.
 
 > <img src="https://user-images.githubusercontent.com/84343976/234936087-60ac528d-0125-489f-81ea-a2f89d9a0c70.png" width="800"><br>
 > One of the phantom's "veins" under ultrasound. A: short axis, B: short axis compressed, C: long axis, D: long axis compressed.
@@ -63,5 +70,3 @@ The phantom can now be used for ultrasound imaging. The water-filled tubes shoul
 4. Once cooled, remove from mold by unscrewing the corner components and pulling the mold apart until the phantom and the wood pieces can be removed. Then pull the wood pieces off of the tubes. If there are any pockets or uneven areas on the surface of the phantom that are interfering with ultrasound visibility, use a heat gun to melt the surface until these areas smoothen out.
 5. Insert a tube coupling into each end of each tube. Attach a valve to each coupling.
 6. Place phantom inside the case, with the tubes sticking out at either end, and screw the lid in place with four M3 screws.
-> <img src="https://user-images.githubusercontent.com/84343976/233670751-5d465c36-f83b-4e5b-a5f6-e4c5f5e07042.png" width="500"><br>
-> Fully assembled phantom and case.
