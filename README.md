@@ -1,6 +1,6 @@
 # General Needlework Phantom
 
-A general needlework training phantom, created to simulate ultrasound-guided needle insertion. See how-to-use guide and assembly instructions below.
+A general needlework training phantom, created using 3D printing and ballistics gel molding for the purpose of simulating ultrasound-guided needle insertion. See how-to-use guide and assembly instructions below.
 
 This model was developed at the [Lynn & Arnold Irwin Advanced Perioperative Imaging Lab](https://apil.ca/), Toronto General Hospital, University Health Network. 
 
