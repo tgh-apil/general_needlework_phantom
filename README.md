@@ -1,11 +1,19 @@
 # General Needlework Phantom
 
-A general needlework training phantom, created using 3D printing and ballistics gel molding for the purpose of simulating ultrasound-guided needle insertion. See how-to-use guide and assembly instructions below.
+A general needlework training phantom, created using 3D printing and ballistics gel molding for the purpose of simulating ultrasound-guided needle insertion. See purchasing instructions, how-to-use guide, and maintenance and assembly instructions below.
 
 This model was developed at the [Lynn & Arnold Irwin Advanced Perioperative Imaging Lab](https://apil.ca/), Toronto General Hospital, University Health Network. 
 
 > <img src="https://user-images.githubusercontent.com/84343976/233670751-5d465c36-f83b-4e5b-a5f6-e4c5f5e07042.png" width="550"><br>
 > Fully assembled phantom and case.
+
+## Purchasing Information
+
+To purchase this phantom, please email <apil@uhn.ca> and a representative will be in touch with you with more details.
+
+**A purchased phantom contains the following**:
+
+1. Fully assembled APIL General Needlework Phantom (including case, tube couplings, and on/off valves)
 
 ## How-to-Use Guide
 To prepare for use, first fill the tubes with water by opening the valves on both ends and using a syringe to inject water, then closing both valves.
@@ -14,6 +22,13 @@ The phantom can now be used for ultrasound imaging. The water-filled tubes shoul
 
 > <img src="https://user-images.githubusercontent.com/84343976/234936087-60ac528d-0125-489f-81ea-a2f89d9a0c70.png" width="800"><br>
 > One of the phantom's "veins" under ultrasound. A: short axis, B: short axis compressed, C: long axis, D: long axis compressed.
+
+## Care and Maintenance
+If the damage to the phantom is minimal and surface-level, it may be possible to recondition it by lightly melting the surface with a heat gun until the tubes are again visible under ultrasound without obstruction. 
+
+However, if the damage is more extensive—large chunks of gel missing from the surface, leaking tubes, etc—it may be necessary to recast the gel portion of the phantom. This can be done by following the mold and phantom assembly instructions below. If water is leaking from the tubes due to extensive puncturing, be sure to use new tubes when casting. 
+
+The case can be reused, unless it is damaged, in which case the manufacturing instructions for the case can be followed.
 
 ## Parts, Materials & Equipment
 ### Mold
