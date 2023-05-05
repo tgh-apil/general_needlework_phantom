@@ -18,7 +18,7 @@ To purchase this phantom, please email <apil@uhn.ca> and a representative will b
 ## How-to-Use Guide
 To prepare for use, first fill the tubes with water by opening the valves on both ends and using a syringe to inject water, then closing both valves.
 
-The phantom can now be used for ultrasound imaging. The water-filled tubes should be visible under ultrasound, mimicking veins, and should contrast with the graphite-filled gel surrounding them (see image below). The user can practice using ultrasound imaging to locate a patient’s vein, into which they can then insert a needle.
+The phantom can now be used for ultrasound imaging. Apply an adequate amount of ultrasound gel to the surface of the phantom prior to imaging. The water-filled tubes should be visible under ultrasound, mimicking veins, and should contrast with the graphite-filled gel surrounding them (see image below). The user can practice using ultrasound imaging to locate a patient’s vein, into which they can then insert a needle.
 
 > <img src="https://user-images.githubusercontent.com/84343976/234936087-60ac528d-0125-489f-81ea-a2f89d9a0c70.png" width="800"><br>
 > One of the phantom's "veins" under ultrasound. A: short axis, B: short axis compressed, C: long axis, D: long axis compressed.
@@ -78,10 +78,14 @@ The case can be reused, unless it is damaged, in which case the manufacturing in
 2. Insert a rubber bumper into each hole.
 
 ### Phantom
+**CAUTION**: Use appropriate heat-proof gloves when working with liquefied ballistic gel and/or heat gun.<br>
+**CAUTION**: Work **only** in a very well ventilated area. A fumehood is *highly* recommended.
+
 1. Cut silicone tubing and insert across the mold through each set of holes in the wood. Leave enough tubing outside the holes to be able to insert tube couplings later on.
 > <img src="https://user-images.githubusercontent.com/84343976/233672992-71014c1e-86ea-4394-b30a-d9af9e68b71b.png" width="500">
-2. Melt ballistics gel (here, a roughly 2:1 mixture of [20% ballistics gel](https://www.clearballistics.com/shop/20-ballistic-gelatin-nato-block-16x6x6/) and [Humimic Medical Ballistics Gel #4](https://humimic.com/product/gelatin-4-medical-gel-by-the-pound/) was used) and stir in graphite powder until uniformly distributed and nearly opaque. (The precise amount of graphite powder is not important so long as it produces a distinct contrast under ultrasound.)
-3. Pour roughly 600g of gel into mold, or until the gel is nearly flush with the top of the mold.
-4. Once cooled, remove from mold by unscrewing the corner components and pulling the mold apart until the phantom and the wood pieces can be removed. Then pull the wood pieces off of the tubes. If there are any pockets or uneven areas on the surface of the phantom that are interfering with ultrasound visibility, use a heat gun to melt the surface until these areas smoothen out.
-5. Insert a tube coupling into each end of each tube. Attach a valve to each coupling.
-6. Place phantom inside the case, with the tubes sticking out at either end, and screw the lid in place with four M3 screws.
+2. Melt roughly 650 g of ballistics gel (here, a roughly 2:1 mixture of [20% ballistics gel](https://www.clearballistics.com/shop/20-ballistic-gelatin-nato-block-16x6x6/) and [Humimic Medical Ballistics Gel #4](https://humimic.com/product/gelatin-4-medical-gel-by-the-pound/) was used) in a crockpot at 105C - 115C (approx. 225F - 240F). 
+3. Stir graphite powder into liquefied gel until saturated and uniformly distributed.
+4. Pour liquefied gel into mold until the gel is flush with the top of the mold.
+5. Once cooled, remove from mold by unscrewing the corner components and pulling the mold apart until the phantom and the wood pieces can be removed. Then pull the wood pieces off of the tubes. If there are any pockets or uneven areas on the surface of the phantom that are interfering with ultrasound visibility, use a heat gun to melt the surface until these areas smoothen out.
+6. Insert a tube coupling into each end of each tube. Attach a valve to each coupling.
+7. Place phantom inside the case, with the tubes sticking out at either end, and screw the lid in place with four M3 screws.
