@@ -4,7 +4,7 @@ A general needlework training phantom, created using 3D printing and ballistics 
 
 This model was developed at the [Lynn & Arnold Irwin Advanced Perioperative Imaging Lab](https://apil.ca/), Toronto General Hospital, University Health Network. 
 
-> <img src="https://user-images.githubusercontent.com/84343976/233670751-5d465c36-f83b-4e5b-a5f6-e4c5f5e07042.png" width="550"><br>
+> ![general needlework phantom](https://github.com/tgh-apil/general_needlework_phantom/assets/84343976/8a190ae2-948a-4924-977c-44ccf2893c0d)<br>
 > Fully assembled phantom and case.
 
 ## Purchasing Information
