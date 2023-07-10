@@ -34,8 +34,8 @@ The case can be reused, unless it is damaged, in which case the manufacturing in
 ### Mold
 
 ### Case
-> <img src="https://user-images.githubusercontent.com/84343976/233665254-12556f43-90ac-4691-a61d-5edc4923b1b6.png" width="438"><img src="https://user-images.githubusercontent.com/84343976/233665300-4c86c816-817c-4bd4-bf90-27a5c8b0ca0d.png" width="350"><br>
-> Left: labelled case components. Right: assembled case.
+> <img src="https://github.com/tgh-apil/general_needlework_phantom/assets/84343976/afd1e7e6-9e41-4ad0-a091-bec99c942531" width="600"><br>
+> Labelled case components. 
 
 #### Printed Parts
 * phantom case — picc case.stl/3mf
